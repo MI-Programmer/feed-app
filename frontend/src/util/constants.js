@@ -1,1 +1,1 @@
-export const API_URI = "http://localhost:8080";
+export const API_URI = "https://feed-app-api.vercel.app";
